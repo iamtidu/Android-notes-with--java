@@ -183,3 +183,4 @@ public class SplashActivity extends AppCompatActivity {
 </manifest>
 
 ```
+Bingo!!
